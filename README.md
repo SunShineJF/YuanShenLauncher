@@ -26,8 +26,7 @@
 
 ### 特性
 
-启动器的界面![image](https://user-images.githubusercontent.com/30500819/114296711-4fac2b80-9adf-11eb-9591-fb9a61d11e4c.png)
-启动器背景会自动设置为官方启动器最新的背景图片。
+启动器的界面，启动器背景会自动设置为官方启动器最新的背景图片。![image](https://user-images.githubusercontent.com/30500819/114296711-4fac2b80-9adf-11eb-9591-fb9a61d11e4c.png)
 
 ### 面临的困难
 
